@@ -11,3 +11,25 @@ body {
   margin: 0;
 }
 
+
+/******************
+******************/
+
+
+nav, footer{
+  background-color: #AAA;
+  padding: 2% 0;
+}
+
+header {
+  padding: 5% 0;
+}
+
+section {
+  background-color: #CCC;
+  padding: 5% 0;
+}
+
+section:nth-child(even) {
+  background-color: #DDD;
+}
