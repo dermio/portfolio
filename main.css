@@ -1,0 +1,13 @@
+/***** Box sizing *****/
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/***** Remove default margin on body *****/
+body {
+  margin: 0;
+}
+
