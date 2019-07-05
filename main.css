@@ -14,9 +14,7 @@ body {
 
 /******************
 ******************/
-
-
-nav, footer{
+nav, footer {
   background-color: #AAA;
   padding: 2% 0;
 
@@ -45,6 +43,7 @@ header {
 section {
   background-color: #CCC;
   padding: 5% 0;
+  min-height: 200px;
 
   display: flex;
   justify-content: center;
