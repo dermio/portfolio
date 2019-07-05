@@ -19,17 +19,39 @@ body {
 nav, footer{
   background-color: #AAA;
   padding: 2% 0;
+
+  display: flex;
+  justify-content: center;
 }
 
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+
+/******************
+Content inside <main>
+******************/
 header {
-  padding: 5% 0;
+  padding: 10% 0;
+
+  display: flex;
+  justify-content: center;
 }
 
 section {
   background-color: #CCC;
   padding: 5% 0;
+
+  display: flex;
+  justify-content: center;
 }
 
 section:nth-child(even) {
   background-color: #DDD;
 }
+
+
