@@ -17,7 +17,7 @@ body {
 ******************/
 nav, footer {
   background-color: #AAA;
-  padding: 2% 3%;
+  padding: 2% 2%;
 
   display: flex;
   justify-content: center;
@@ -33,11 +33,19 @@ nav {
   justify-content: flex-end;
 }
 
-.github, .email {
+nav > a {
+  margin-right: 10px;
+}
+
+nav > a:last-child {
+  margin-right: 0;
+}
+
+.github, .email, .portfolio-link {
   text-decoration: none;
 }
 
-.github:hover, .email:hover {
+.github:hover, .email:hover, .portfolio-link:hover {
   text-decoration: underline;
 }
 
