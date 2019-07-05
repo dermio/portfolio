@@ -30,11 +30,11 @@ nav {
   right: 0;
 }
 
-.github {
+.github, .email {
   text-decoration: none;
 }
 
-.github:hover {
+.github:hover, .email:hover {
   text-decoration: underline;
 }
 
