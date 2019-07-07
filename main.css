@@ -9,6 +9,8 @@ html {
 /***** Remove default margin on body *****/
 body {
   margin: 0;
+
+  background-color: #F4F7F6;
 }
 
 
@@ -43,6 +45,7 @@ nav > a:last-child {
 
 a {
   text-decoration: none;
+  color: #FFF;
 }
 
 a:hover {
