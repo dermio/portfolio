@@ -78,7 +78,7 @@ section {
   justify-content: center;
 }
 
-section > img {
+section img {
   width: 100%;
   height: auto;
 }
