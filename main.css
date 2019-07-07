@@ -81,10 +81,8 @@ h1 {
 }
 
 section {
-  background-color: black;
   /* background-color: #CCC; */
   /* padding: 5% 0; */
-  /* min-height: 200px; */
   font-family: "Lato", sans-serif;
 
   display: flex;
@@ -119,6 +117,10 @@ Media query
 
   .bio {
     margin: 0 1%;
+  }
+
+  section {
+    margin-bottom: 20px;
   }
 }
 
