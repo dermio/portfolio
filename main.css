@@ -44,7 +44,7 @@ nav > a:last-child {
   margin-right: 0;
 }
 
-a {
+a, footer {
   text-decoration: none;
   color: #FFF;
 }
