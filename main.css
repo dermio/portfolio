@@ -72,6 +72,10 @@ h1 {
   font-family: "Montserrat", sans-serif;
 }
 
+.bio {
+  font-family: "Lato", sans-serif;
+}
+
 section {
   background-color: #CCC;
   padding: 5% 0;
@@ -86,6 +90,7 @@ section img {
   width: 100%;
   height: auto;
 }
+
 section:nth-child(even) {
   background-color: #DDD;
 }
