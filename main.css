@@ -86,18 +86,11 @@ section {
   /* background-color: #CCC; */
   /* padding: 5% 0; */
   font-family: "Lato", sans-serif;
-
-  display: flex;
-  justify-content: center;
 }
 
 section img {
   width: 100%;
   height: auto;
-}
-
-section:nth-child(even) {
-  background-color: #DDD;
 }
 
 
