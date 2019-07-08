@@ -76,7 +76,7 @@ header {
   justify-content: center;
 }
 
-.bio, .aboutMe {
+.bio, .aboutMe, .project-desc {
   font-family: "Lato", sans-serif;
   margin-bottom: 5px;
   line-height: 1.5;
@@ -91,6 +91,14 @@ section {
 section img {
   width: 100%;
   height: auto;
+}
+
+.project {
+  background-color: #FFF;
+}
+
+.project-info {
+  padding: 0;
 }
 
 
