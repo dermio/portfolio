@@ -82,8 +82,8 @@ header {
   line-height: 1.5;
 }
 
-section {
-  /* background-color: #CCC; */
+section.project {
+  background-color: #FCFCFC;
   /* padding: 5% 0; */
   font-family: "Lato", sans-serif;
 }
@@ -91,10 +91,6 @@ section {
 section img {
   width: 100%;
   height: auto;
-}
-
-.project {
-  background-color: #FFF;
 }
 
 .project-info {
