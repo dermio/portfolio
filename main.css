@@ -76,8 +76,9 @@ h1 {
   justify-content: center;
 }
 
-.bio {
+.bio, .aboutMe {
   font-family: "Lato", sans-serif;
+  margin-bottom: 5px;
 }
 
 section {
@@ -115,8 +116,8 @@ Media query
     padding: 0 5vw 0;
   }
 
-  .bio {
-    margin: 0 1%;
+  .bio, .aboutMe {
+    margin: 1% 1%;
   }
 
   section {
