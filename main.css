@@ -61,6 +61,10 @@ nav, footer {
 /******************
 Content inside <main>
 ******************/
+main { /* Font color for all text in main. */
+  color: #202121;
+}
+
 header {
   padding: 10% 10% 7%;
 
