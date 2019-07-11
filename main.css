@@ -108,7 +108,7 @@ section img {
   padding: 0;
 }
 
-.project-title, .project-desc {
+.project-title, .project-desc, .project-tech {
   margin: 0;
   padding: 20px 20px 0;
 }
