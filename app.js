@@ -1,6 +1,6 @@
 function startApp() {
-  $(".github").on("click", function () {
-    console.log("GitHub");
+  $("footer").on("click", function () {
+    console.log("Footer email");
   });
 }
 
