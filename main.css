@@ -104,13 +104,13 @@ section.project {
   overflow: hidden;
 }
 
-img {
+.project .project-image-img {
   width: 100%;
   height: auto;
   transition: transform 0.5s ease-in-out;
 }
 
-img:hover {
+.project-image-img:hover {
   transform: scale(1.05);
 }
 
