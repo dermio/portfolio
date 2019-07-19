@@ -94,6 +94,16 @@ header {
   max-width: 800px;
 }
 
+.portfolio-heading {
+  margin-top: 0;
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #202121;
+  display: flex;
+  justify-content: center;
+}
+
 section.project {
   background-color: #FCFCFC;
   /* padding: 5% 0; */
