@@ -96,7 +96,8 @@ header {
 
 .portfolio-heading {
   margin-top: 0;
-  font-family: "Lato", sans-serif;
+  margin-bottom: 20px;
+  font-family: "Montserrat", sans-serif;
   font-size: 20px;
   font-weight: 500;
   color: #202121;
