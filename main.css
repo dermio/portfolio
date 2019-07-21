@@ -147,6 +147,19 @@ div.project {
   padding-bottom: 25px;
 }
 
+.project-title-name {
+  margin-right: 30px;
+  /* On small screens title displays block */
+  display: block;
+}
+
+.project-title-repo, .project-title-demo {
+  color: #202121;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  margin-right: 5px;
+}
+
 
 /******************
 Media query
