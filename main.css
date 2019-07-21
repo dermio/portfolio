@@ -169,6 +169,10 @@ Media query
     font-size: 25px;
     margin-bottom: 5vh;
   }
+
+  .project-title-name {
+    display: inline;
+  }
 }
 
 
