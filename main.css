@@ -159,12 +159,17 @@ div.project {
 }
 
 .project-title-repo, .project-title-demo {
-  color: #202121;
+  color: #49C5B6;
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
   margin-right: 5px;
+
+  transition: color 0.3s ease-in-out;
 }
 
+.project-title-repo:hover, .project-title-demo:hover {
+  color: #202121;
+}
 
 /******************
 Media query
